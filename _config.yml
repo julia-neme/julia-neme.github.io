@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/sub-directory"
 url: "https://julia-neme.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
