@@ -17,9 +17,6 @@ layout: default
         <!-- Social media shares -->
         {% if include.is_post %} {% include social/share_buttons.html %} {% endif %}
 
-        <!-- Tag list -->
-        {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
-        {% include default/tags_list.liquid tags=tag_list %}
     </div>
 
 </article>
