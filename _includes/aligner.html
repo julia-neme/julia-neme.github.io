@@ -1,7 +1,7 @@
 {% assign images = include.images | split: ',' %}
 
 {% if include.column == "auto" %}
-{% assign column = 100.0 | divided_by: 3 %}
+{% assign column = 100.0 | divided_by: images.size %}
 {% elsif include.column > 0 %}
 {% assign column = 100.0 | divided_by: include.column %}
 {% endif %}
