@@ -4,7 +4,6 @@ title: Education
 img: "assets/img/portfolio/circus.png"
 ---
 
-{% include aligner.html images="portfolio/UNSW-logo.png" %}
 ## PhD in Climate Science  
 ### University of New South Wales - 2020 to current
 
@@ -14,7 +13,6 @@ My research focuses on the dynamics of the Weddell Gyre in the Southern Ocean, i
 
 ---
 
-{% include aligner.html images="portfolio/UBA-logo.jpg" column=10 %}
 ## Licenciatura in Physical Oceanography
 ### University of Buenos Aires - 2014 to 2019
 
