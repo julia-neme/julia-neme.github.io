@@ -6,12 +6,14 @@ img: "assets/img/portfolio/circus.png"
 tags: [Ipsum]
 ---
 
-## PhD in Climate Science 
-{% include aligner.html images="/assets/img/portfolio/UNSW-logo.jpg" %}
+
+## PhD in Climate Science  
+
+{% include aligner.html images="assets/img/portfolio/UNSW-logo.png" %}
 
 ### University of New South Wales - 2020 to current
 
-My research focuses on the dynamics of the Weddell Gyre in the Southern Ocean, in particular its variability and forcing mechanimsms.
+My research focuses on the dynamics of the Weddell Gyre in the Southern Ocean, in particular its variability and forcing mechanimsms. I am fully funded under the Scientia Scholarship program.
 
 **Supervisors: Prof. Matthew H. England, Prof. Andrew McC. Hogg**
 
