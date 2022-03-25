@@ -7,6 +7,13 @@ img: "assets/img/portfolio/cake.png"
 #tags: [Lorem, Ipsum]
 ---
 
+## PhD in Climate Science
+### University of New South Wales - 2020 to current
+
+My research focuses on the dynamics of the Weddell Gyre in the Southern Ocean, in particular its variability and forcing mechanimsms.
+
+**Supervisors: Prof. Matthew H. England, Prof. Andrew McC. Hogg**
+
 ## Licenciatura in Physical Oceanography
 ### University of Buenos Aires - 2014 to 2019
 
