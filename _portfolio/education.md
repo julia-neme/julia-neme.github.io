@@ -2,8 +2,6 @@
 layout: post
 title: Education
 img: "assets/img/portfolio/circus.png"
-date: 
-tags: 
 ---
 
 {% include aligner.html images="portfolio/UNSW-logo.png" column=3 %}
