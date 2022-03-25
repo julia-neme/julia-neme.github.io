@@ -9,7 +9,7 @@ tags: [Ipsum]
 
 ## PhD in Climate Science  
 
-{% include aligner.html images="assets/img/portfolio/UNSW-logo.png" %}
+{% include aligner.html images="portfolio/UNSW-logo.png" %}
 
 ### University of New South Wales - 2020 to current
 
