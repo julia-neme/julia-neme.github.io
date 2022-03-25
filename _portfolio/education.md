@@ -6,8 +6,8 @@ img: "assets/img/portfolio/circus.png"
 tags: [Ipsum]
 ---
 
-## PhD in Climate Science
-<img align="right" width='200px' src="/assets/img/portfolio/UNSW-logo.png">
+## PhD in Climate Science 
+{% include aligner.html images="/assets/img/portfolio/UNSW-logo.jpg" %}
 
 ### University of New South Wales - 2020 to current
 
