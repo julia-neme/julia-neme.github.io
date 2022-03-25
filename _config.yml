@@ -8,8 +8,8 @@ remote_theme: sylhare/Type-on-Strap                     # If using as a remote_t
 # THEME-SPECIFIC CONFIGURATION
 title: Julia Neme                                       # site's title
 description: "Physical oceanographer"                   # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+avatar:                                                 # Empty for no avatar in navbar
+favicon:                                                # Icon displayed in the tab
 
 # Header and footer text
 header_text: Physical oceanographer
