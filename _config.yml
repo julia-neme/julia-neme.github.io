@@ -13,7 +13,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 header_text: Physical oceanographer
-header_feature_image: assets/img/header/Iceberg.jpg
+header_feature_image: assets/img/header/Ocean-header-2.jpg
 header_feature_image_responsive: true
 footer_text: >
   Julia Neme, PhD Student
