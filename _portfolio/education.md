@@ -3,8 +3,19 @@ layout: post
 title: Education
 img: "assets/img/portfolio/circus.png"
 date: 
-tags: [Ipsum]
+tags: 
 ---
+
+<div class="row">
+  <div class="column">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
 
 
 ## PhD in Climate Science  
