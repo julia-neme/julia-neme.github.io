@@ -4,8 +4,10 @@ title: Education
 img: "assets/img/portfolio/circus.png"
 ---
 
-{% include aligner.html images="portfolio/UNSW-logo.png" %}
-## PhD in Climate Science  
+## PhD in Climate Science
+
+<img align="right" height="100" src="/assets/img/portfolio/UNSW-logo.png">
+
 ### University of New South Wales - 2020 to current
 
 My research focuses on the dynamics of the Weddell Gyre in the Southern Ocean, in particular its variability and forcing mechanimsms. I am fully funded under the Scientia Scholarship program.
