@@ -6,7 +6,7 @@ img: "assets/img/portfolio/circus.png"
 
 ## PhD in Climate Science
 
-<img align="right" height="150" src="/assets/img/portfolio/UNSW-logo.png">
+<img align="right" height="170" src="/assets/img/portfolio/UNSW-logo.png">
 
 ### University of New South Wales
 
