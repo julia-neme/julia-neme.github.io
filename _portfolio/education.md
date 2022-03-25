@@ -7,11 +7,11 @@ img: "assets/img/portfolio/cake.png"
 #tags: [Lorem, Ipsum]
 ---
 
-# Licenciatura in Physical Oceanography
-## University of Buenos Aires - 2014 to 2019
+## Licenciatura in Physical Oceanography
+### University of Buenos Aires - 2014 to 2019
 
 During this degree, I developed a solid foundation in physics and mathematics and applied to understanding the physical mechanisms that govern the ocean/atmosphere system.
 
-**Final thesis: Surface variability of the Brazil Current from reanalysis data during the period 2009 - 2015**
+**Final thesis: "Surface variability of the Brazil Current from reanalysis data during the period 2009 - 2015"**
 
 **Average grade: 9.17/10**
