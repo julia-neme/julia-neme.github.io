@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Education
-feature-img: "assets/img/header/Header-research.jpg"
+feature-img: "assets/img/header/Header-research-2.jpg"
 img: "assets/img/portfolio/circus.png"
 ---
 
