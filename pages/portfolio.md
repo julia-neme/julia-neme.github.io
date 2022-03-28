@@ -3,5 +3,5 @@ layout: page
 title : Research 
 permalink: /portfolio/
 subtitle: "" 
-feature-img: "assets/img/header/Ocean-research-2.jpg"
+feature-img: "assets/img/header/Ocean-header-2.jpg"
 ---
