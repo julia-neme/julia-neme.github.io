@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Education
+title: 
 feature-img: "assets/img/header/Ocean-header-2.jpg"
 img: "assets/img/portfolio/CB-mean.png"
 ---
