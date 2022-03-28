@@ -16,9 +16,9 @@ header_text: Physical oceanographer
 header_feature_image: assets/img/header/Ocean-header-2.jpg
 header_feature_image_responsive: true
 footer_text: |
-  <h4>Julia Neme, PhD Student</h4>
-  <h4>Climate Change Research Centre</h4>
-  <h4>University of New South Wales</h4>
+  <p>Julia Neme, PhD Student</p>
+  <p>Climate Change Research Centre</p>
+  <p>University of New South Wales</p>
 
 # BLOG CONFIGURATION
 post_navigation: true
