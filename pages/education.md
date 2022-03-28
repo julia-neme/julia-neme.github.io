@@ -1,8 +1,9 @@
----
-layout: post
-title: Education
-feature-img: "assets/img/header/Header-research-2.jpg"
-img: "assets/img/portfolio/circus.png"
+--- 
+layout: page
+title : Education 
+permalink: /education/
+subtitle: "" 
+feature-img: "assets/img/header/Ocean-header-2.jpg"
 ---
 
 ## PhD in Climate Science
