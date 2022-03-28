@@ -3,6 +3,7 @@ layout: post
 title: Education
 feature-img: "assets/img/header/Header-research.jpg"
 img: "assets/img/portfolio/circus.png"
+date: 
 ---
 
 ## PhD in Climate Science
