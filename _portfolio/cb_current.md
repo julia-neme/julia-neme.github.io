@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Surface variability of the Brazil Current for the period 2009 to 2015
+title: Surface variability of the Brazil Current
 feature-img: "assets/img/header/Ocean-header-2.jpg"
 img: "assets/img/portfolio/CB-mean.png"
 date: 2019
@@ -12,6 +12,6 @@ The joint initiative [South Atlantic Meridional Overturning Circulation](https:/
 
 <img align="right" height="400" src="/assets/img/portfolio/CB-eddies.png">
 
-As part of my final thesis in the University of Buenos Aires, I used a reanalysis product, [OSCAR Surface Currents](https://www.esr.org/research/oscar/oscar-surface-currents/) to study the surface variability of the Brazil Current at the SAMOC initiative latitude. We found that the surface speed of the current is strongly modified by transient eddies, which are able to double or even reverse the current's velocity for up to 30 days. Cyclonic eddies weaken the Brazil Current and induce a cold surface temperature anomaly, whilst anticyclonic eddies strengthen the Current and induce a warm surface temperature anomaly. The image on the right shows one of the cyclonic eddies apparent in surface velocities (top row) and surface temperatures (bottom row).
+As part of my final thesis in the University of Buenos Aires, I used a reanalysis product, [OSCAR Surface Currents](https://www.esr.org/research/oscar/oscar-surface-currents/) to study the surface variability of the Brazil Current at the SAMOC initiative latitude during the period 2009 to 2015. We found that the surface speed of the current is strongly modified by transient eddies, which are able to double or even reverse the current's velocity for up to 30 days. Cyclonic eddies weaken the Brazil Current and induce a cold surface temperature anomaly, whilst anticyclonic eddies strengthen the Current and induce a warm surface temperature anomaly. The image on the right shows one of the cyclonic eddies apparent in surface velocities (top row) and surface temperatures (bottom row).
 
 Additionally, I performed an independent verification using the [global eddy database](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007GL030812) (Chelton and Schlax, 2017) and was able to associate each event identified in surface velocities to an individual eddy from that database.
