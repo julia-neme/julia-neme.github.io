@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Education
-feature-img: "assets/img/header/Ocean-header.jpg"
+feature-img: "assets/img/header/Ocean-header-2.jpg"
 img: "assets/img/portfolio/CB-mean.png"
 ---
 
@@ -11,7 +11,7 @@ The Brazil Current comprises the western limb of the subtropical gyre in the Sou
 
 The joint initiative [South Atlantic Meridional Overturning Circulation](https://www.aoml.noaa.gov/phod/SAMOC_international/) (SAMOC), involving research centres from Argentina, USA, Brazil, South Africa and France, established a continous monitoring system of meridional transport at 34.5S in the year 2009, with the aim of understanding the role of the South Atlantic in the MOC.
 
-<img align="right" height="400" src="/assets/img/portfolio/CB-eddies.png">
+<img align="right" height="600" src="/assets/img/portfolio/CB-eddies.png">
 
 As part of my final thesis in the University of Buenos Aires, I used a reanalysis product, [OSCAR Surface Currents](https://www.esr.org/research/oscar/oscar-surface-currents/) to study the surface variability of the Brazil Current at the SAMOC initiative latitude. We found that the surface speed of the current is strongly modified by transient eddies, which are able to double or even reverse the current's velocity for up to 30 days. Cyclonic eddies weaken the Brazil Current and induce a cold surface temperature anomaly, whilst anticyclonic eddies strengthen the Current and induce a warm surface temperature anomaly. The image on the right shows one of the cyclonic eddies apparent in surface velocities (top row) and surface temperatures (bottom row).
 
