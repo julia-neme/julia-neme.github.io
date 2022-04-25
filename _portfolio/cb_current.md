@@ -2,7 +2,7 @@
 layout: post
 title: Surface variability of the Brazil Current
 feature-img: "assets/img/header/Ocean-header-2.jpg"
-img: "assets/img/portfolio/CB-mean.png"
+img: "assets/img/portfolio/CB-header.png"
 ---
 
 The Brazil Current comprises the western limb of the subtropical gyre in the South Atlantic ocean. As such, it carries warmer waters from the tropics southwards until the Brazil-Malvinas Confluence, where an intense oceanic front is formed by interaction of the colder, nutrient rich waters of the Malvinas Current. The Brazil Current is one of the weakest western boundary currents, which some studies suggest is due to the export of waters towards the North Atlantic that feed onto the Meridional Overturning Circulation (MOC) and reduces the return flow via the Brazil Current. 
