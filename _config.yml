@@ -21,6 +21,7 @@ footer_text: |
   <p>University of New South Wales</p>
 
 # BLOG CONFIGURATION
+excerpt: true
 post_navigation: true
 paginate: 10
 paginate_path: "blog/page:num"
