@@ -21,7 +21,7 @@ footer_text: |
   <p>University of New South Wales</p>
 
 # Blog
-excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+excerpt: false                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 
 # Features
