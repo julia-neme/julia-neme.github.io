@@ -20,12 +20,9 @@ footer_text: |
   <p>Climate Change Research Centre</p>
   <p>University of New South Wales</p>
 
-# BLOG CONFIGURATION
-excerpt: true
+# Blog
+excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
-paginate: 10
-paginate_path: "blog/page:num"
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 
 # Features
 # More in the _data folder for share buttons, author and language
