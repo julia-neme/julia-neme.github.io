@@ -2,7 +2,6 @@
 layout: post
 title: What is my PhD about?
 feature-img: "assets/img/header/Ocean-header-2.jpg"
-thumbnail: "assets/img/portfolio/wg-schematic.png"
 ---
 
 As I am building this website, I thought that a good first post would be a brief description of what my PhD is about. As happens with most students, my research questions and topic have mutated since my first days, and continue to do so, which is why this will only be an accurate description for +/- 6 months.
