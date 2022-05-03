@@ -12,6 +12,6 @@ However, there is little to no research devoted to understanding projected chang
 
 The figure below shows how in high and moderate emission scenarios, CMIP6 models show a weakening of surface winds, both in the south-to-north and east-to-west directions. The weakening becomes more pronounced for the high emission scenario, amounting to 23% and 7% respectively for both components. This weakening is bound to have an impact on a variety of ocean processes, and calls for more research, as well as improvements in how models re-solve atmospheric and oceanic processes in high latitudes.
 
-<img align="center" width="100%" src="/assets/img/fig4.jpg">
+{% include aligner.html images="/assets/img/fig4.jpg" column=1 %}
 
 [^1]: Coupled Model Intercomparison Project Phase 6, a project of the World Climate Research Programme (WCRP), that are regularly assessed as part of the IPCC Climate Assessments Reports
