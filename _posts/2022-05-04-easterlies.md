@@ -2,7 +2,7 @@
 layout: post
 title: Future changes of Antarctic surface winds
 feature-img: "assets/img/header/Ocean-header-2.jpg"
---
+---
 
 There are a large number of oceanic processes that depend upon and are influenced by surface winds around the Antarctic margin, amongst which are bottom water production, cross-shelf transport and sea ice formation and drift. These processes, mostly hapenning over a narrow continental shelf, have the potential of influencing the global climate and play a dominant role in our planet's response to climate change. 
 
