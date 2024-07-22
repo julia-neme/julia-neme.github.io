@@ -10,10 +10,6 @@ figcaption {
             font-size: 0.8em;
             color: rgba(255, 255, 255, 0.15);
             text-align: right;
-            position: absolute;
-            right: 0;
-            bottom: 0;
-            padding: 5px;
         }
 
 html, body, div, span, applet, object,
