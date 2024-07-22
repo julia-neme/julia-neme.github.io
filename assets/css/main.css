@@ -11,9 +11,9 @@ figcaption {
             color: rgba(255, 255, 255, 0.15);
             text-align: right;
         }
-.ack {
-            font-size: 0.8em;
-            color: rgba(255, 255, 255, 0.15);
+ack {
+	    font-size: 0.8em;
+	    color: rgba(255, 255, 255, 0.15);
 	    line-height: 0.5;
         }
 
