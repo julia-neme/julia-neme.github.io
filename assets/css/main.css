@@ -11,10 +11,10 @@ figcaption {
             color: rgba(255, 255, 255, 0.15);
             text-align: right;
         }
-ack {
+.ack {
             font-size: 0.8em;
             color: rgba(255, 255, 255, 0.15);
-	    line-height: 6px;
+	    line-height: 0.5;
         }
 
 html, body, div, span, applet, object,
