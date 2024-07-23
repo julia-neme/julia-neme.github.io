@@ -2580,11 +2580,11 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			max-width: 20%;
+			max-width: 40%;
 		}
 
 			.image.left img, .image.right img {
-				width: 80%;
+				width: 100%;
 			}
 
 		.image.left {
